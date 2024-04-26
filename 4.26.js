@@ -21,7 +21,8 @@
 // @namespace    https://a.wpzllq.top
 // @supportURL   https://a.wpzllq.top
 // @icon         https://wpzllq.cn/wp-content/uploads/2023/12/1702644733-ta.webp
-// @require      https://gya.wpzllq.cn/script/jquery.min.js
+// @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.js
+// @license 	MIT
 // @grant        GM_getValue
 // @grant        GM_addStyle
 // @grant        unsafeWindow
